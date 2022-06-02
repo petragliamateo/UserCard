@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.UserCardBody{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #23252C;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+
+.UserCard{
+    background-color: #1A1B21;
+    width: 317px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    border-radius: 10px;
+}

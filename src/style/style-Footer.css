@@ -1,0 +1,17 @@
+.Footer{
+    display: flex;
+    background-color: #161619;
+    height: 64px;
+    width: auto;
+    margin-top: 40px;
+
+    justify-content: center;
+    align-items: center;
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.Footer *{
+    width: 25px;
+    margin: 10px;
+}
